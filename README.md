@@ -62,7 +62,7 @@ class MarketingCampaignAdmin(VersionAdmin):
 [Aman Verma](https://nightwarriorftw.netlify.app)
 
 - Github: [nightwarriorftw](https://github.com/nightwarriorftw)
-- Linkedin: [developer-aman-verma](https://linkedin.com/in/nightwarriorftw)
+- Linkedin: [nightwarriorftw](https://linkedin.com/in/nightwarriorftw)
 - Twitter: [nightwarriorftw](https://twitter.com/nightwarriorftw)
 
 ## :lock: License
