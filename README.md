@@ -18,6 +18,7 @@
 
 Sometimes we want to restore deleted model instances but we don't have [Point in Time Recovery](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/PointInTimeRecovery_Howitworks.html). So here comes **django-reversion** in the picture which allows version control over model instances. This projects is basically a demonstration of how to use django-reversion
 
+
 Stay tuned for by blog post in case you want to understand how django-reversion works in deep :)
 
 ## :zap: Features
